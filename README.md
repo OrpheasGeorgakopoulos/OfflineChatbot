@@ -20,7 +20,7 @@ Built with Python, Tkinter, and Sentence Transformers for semantic question matc
 ## 📸 Preview
 
 <div align="center">
-  <img src="preview.png" alt="Microcontroller Chatbot Preview">
+  <img src="preview_offlinechatbot.png" alt="Microcontroller Chatbot Preview">
 </div>
 
 ---
